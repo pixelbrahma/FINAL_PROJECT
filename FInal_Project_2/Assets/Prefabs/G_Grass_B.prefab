@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7047400548792517136}
   - component: {fileID: 7047400548792517143}
+  - component: {fileID: 2216451276168063584}
   m_Layer: 0
   m_Name: G_Grass_B
   m_TagString: Untagged
@@ -81,3 +82,14 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!210 &2216451276168063584
+SortingGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7047400548792517142}
+  m_Enabled: 1
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
